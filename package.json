@@ -57,10 +57,10 @@
     "@llm-tools/embedjs-loader-markdown": "patch:@llm-tools/embedjs-loader-markdown@npm%3A0.1.25#~/.yarn/patches/@llm-tools-embedjs-loader-markdown-npm-0.1.25-d1d536d640.patch",
     "@llm-tools/embedjs-loader-msoffice": "^0.1.25",
     "@llm-tools/embedjs-loader-pdf": "^0.1.25",
-    "@llm-tools/embedjs-loader-sitemap": "^0.1.25",
+    "@llm-tools/embedjs-loader-sitemap": "^0.1.30",
     "@llm-tools/embedjs-loader-web": "^0.1.25",
     "@llm-tools/embedjs-loader-xml": "^0.1.25",
-    "@llm-tools/embedjs-openai": "^0.1.25",
+    "@llm-tools/embedjs-openai": "^0.1.30",
     "@types/react-infinite-scroll-component": "^5.0.0",
     "adm-zip": "^0.5.16",
     "apache-arrow": "^18.1.0",
@@ -72,10 +72,10 @@
     "electron-window-state": "^5.0.3",
     "fs-extra": "^11.2.0",
     "html2canvas": "^1.4.1",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "officeparser": "^4.1.1",
     "tokenx": "^0.4.1",
-    "webdav": "4.11.4"
+    "webdav": "5.0.0"
   },
   "devDependencies": {
     "@anthropic-ai/sdk": "^0.24.3",
